@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Create ticket to avail services!","Listening to NewJeans - Supernatural"];
+const statusMessages = ["🐈 Playing with cats","🎶 NewJeans - Supernatural"];
 
 
 let currentIndex = 0;
